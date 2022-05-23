@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- I am Akshit Dudeja from Faridabad,Haryana currently a student at Indian Institute of Technology,Bhubaneshwar. -->
+I am Akshit Dudeja from Faridabad,Haryana currently a student at Indian Institute of Technology,Bhubaneshwar.
 
 [![Akshits's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshitdudeja125)](https://github.com/anuraghazra/github-readme-stats)
