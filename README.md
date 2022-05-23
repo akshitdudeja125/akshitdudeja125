@@ -14,7 +14,7 @@ Skills: Python/ML/C/C++/HTML/CSS
  
  ### Connect with me:
 
-[![website](./img/twitter-light.svg)]https://twitter.com/AkshitDudeja#gh-light-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/AkshitDudeja#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/AkshitDudeja#gh-dark-mode-only)
 &nbsp;&nbsp;
 
