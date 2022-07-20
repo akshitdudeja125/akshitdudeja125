@@ -29,6 +29,6 @@ Currently a student at Indian Institute of Technology, Bhubaneswar.
 ![](https://github-profile-trophy.vercel.app/?username=akshitdudeja125&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshitdudeja125&show_icons=true&locale=en&layout=compact" alt="akshitdudeja125" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshitdudeja125&show_icons=true&locale=en&layout=compact" alt="akshitdudeja125" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitdudeja125&show_icons=true&locale=en" alt="akshitdudeja125" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitdudeja125&show_icons=true&locale=en" alt="akshitdudeja125" /></p> -->
